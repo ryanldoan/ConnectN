@@ -13,11 +13,11 @@ A spinoff of Connect 4 where you can create a C x R game of Connect N.
 **To Change Type of Players:**
 
 1) Go to main.cpp
-2) Change the class of hp or sp to either HumanPlayer, SmartPlayer, or BadPlayer
+2) Change the type of hp or sp to be of class HumanPlayer, SmartPlayer, or BadPlayer
 
 </br>
 
 
-**To Play the Game**
+**To Play the Game:**
 
 1) Just clone / download the repo and run!
